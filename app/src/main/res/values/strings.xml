@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Dev Profile</string>
+    <string name="devslopesbanner">devSlopesBanner</string>
+    <string name="devslopeslogo">devSlopesLogo</string>
+</resources>
